@@ -4,7 +4,7 @@ csirtgsdk>=1.1,<2.0
 csirtg_mail>=0.0.0a9,<2
 ipaddress>=1.0.16
 feedparser>=5.2.1
-nltk==3.4.5
+nltk==3.6
 requests==2.22.0
 pendulum==2.0.5
 arrow>=0.15.2
